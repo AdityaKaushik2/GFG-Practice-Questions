@@ -1,9 +1,6 @@
-package gfgproblems;
-
 /*
- * Missing number in array
- * 
- * Given an array of size N-1 such that it only contains distinct integers in the range of 1 to N. Find the missing element.
+Missing number in array 
+Given an array of size N-1 such that it only contains distinct integers in the range of 1 to N. Find the missing element.
 
 Example 1:
 
@@ -31,8 +28,8 @@ Constraints:
 1 ≤ A[i] ≤ 106
  */
 
-//{ Driver Code Starts
-//Initial Template for Java
+// { Driver Code Starts
+// Initial Template for Java
 
 import java.io.*;
 import java.util.*;
